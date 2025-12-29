@@ -27,7 +27,7 @@ class TicketPage extends StatelessWidget {
       body: Padding(
         padding: const EdgeInsets.all(24),
 
-        // 🔹 المحتوى في المنتصف
+        
         child: Center(
           child: Column(
             mainAxisSize: MainAxisSize.min,
@@ -59,7 +59,7 @@ class TicketPage extends StatelessWidget {
         ),
       ),
 
-      // 🔹 زر أسفل الشاشة
+      
       bottomNavigationBar: Padding(
         padding: const EdgeInsets.all(16),
         child: ElevatedButton(
