@@ -103,7 +103,7 @@ class MyTicketsPage extends StatelessWidget {
                       const SizedBox(height: 14),
                       const Divider(),
 
-                      /// 🔳 Bottom Row
+                      
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
