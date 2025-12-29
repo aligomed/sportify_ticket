@@ -232,7 +232,7 @@ class _SeatMapPageState extends State<SeatMapPage> {
     }
   }
 
-  // ===================== UI =====================
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
