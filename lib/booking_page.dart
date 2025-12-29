@@ -213,7 +213,7 @@ class _BookingPageState extends State<BookingPage> {
                         final month = int.tryParse(parts[0]);
                         final year = int.tryParse(
                           "20${parts[1]}",
-                        ); // يحول 24 → 2024
+                        ); 
 
                         if (month == null || year == null) {
                           return "Invalid expiry";
